@@ -25,6 +25,7 @@ export const metadata: Metadata = {
     "ESP32",
     "IoT",
     "Networking",
+    "Web Development",
     "Tshwane University of Technology",
   ],
   openGraph: {
